@@ -1,7 +1,7 @@
 # SRD
 the official repository of the paper "**Remote Sensing Image Haze Removal Based on Superpixel**"
 
-```html
+```
 <center>
 <img src="./img/SRD.png" alt="SRD" />
 </center>
