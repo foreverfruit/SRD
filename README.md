@@ -33,24 +33,24 @@ https://doi.org/10.3390/rs15194680
 
 <table>
 <tr>
-	<td>input<img src="./img/hazy/AID_railwaystation_22.jpg" width="100%" alt="input" /></td>
-	<td>dehazed<img src="./img/result/AID_railwaystation_22.jpg" width="100%" alt="SRD" /></td>
+	<td>input<img src="./img/hazy/AID_railwaystation_22.jpg" alt="input" /></td>
+	<td>dehazed<img src="./img/result/AID_railwaystation_22.jpg" alt="SRD" /></td>
 </tr>
 <tr>
-	<td>superpixel_edge<img src="./img/result/AID_railwaystation_22_superpixel.jpg" width="100%" alt="input" /></td>
-	<td>superpixel_embed<img src="./img/result/AID_railwaystation_22_embed.jpg" width="100%" alt="SRD" /></td>
-    <td>Coarse A<img src="./img/result/AID_railwaystation_22_Acoarse.jpg" width="100%" alt="input" /></td>
-	<td>Refined A<img src="./img/result/AID_railwaystation_22_Arefine.jpg" width="100%" alt="SRD" /></td>
+	<td>superpixel_edge<img src="./img/result/AID_railwaystation_22_superpixel.jpg" alt="input" /></td>
+	<td>superpixel_embed<img src="./img/result/AID_railwaystation_22_embed.jpg" alt="SRD" /></td>
+    <td>Coarse A<img src="./img/result/AID_railwaystation_22_Acoarse.jpg" alt="input" /></td>
+	<td>Refined A<img src="./img/result/AID_railwaystation_22_Arefine.jpg" alt="SRD" /></td>
 </tr>
 <tr>
-	<td>Coarse T Red<img src="./img/result/AID_railwaystation_22_TR_coarse.jpg" width="100%" alt="SRD_TR_Coarse" /></td>
-	<td>Coarse T Green<img src="./img/result/AID_railwaystation_22_TG_coarse.jpg" width="100%" alt="SRD_TG_Coarse" /></td>
-     <td>Coarse T Blue<img src="./img/result/AID_railwaystation_22_TB_coarse.jpg" width="100%" alt="SRD_TB_Coarse" /></td>
+	<td>Coarse T Red<img src="./img/result/AID_railwaystation_22_TR_coarse.jpg" alt="SRD_TR_Coarse" /></td>
+	<td>Coarse T Green<img src="./img/result/AID_railwaystation_22_TG_coarse.jpg" alt="SRD_TG_Coarse" /></td>
+     <td>Coarse T Blue<img src="./img/result/AID_railwaystation_22_TB_coarse.jpg" alt="SRD_TB_Coarse" /></td>
 </tr>
 <tr>
-<td>Refined T Red<img src="./img/result/AID_railwaystation_22_TR_refine.jpg" width="100%" alt="SRD_TR_refined" /></td>
-	<td>Refined T Green<img src="./img/result/AID_railwaystation_22_TG_refine.jpg" width="100%" alt="SRD_TG_refined" /></td>
-     <td>Refined T Blue<img src="./img/result/AID_railwaystation_22_TB_refine.jpg" width="100%" alt="SRD_TB_refined" /></td>
+<td>Refined T Red<img src="./img/result/AID_railwaystation_22_TR_refine.jpg" alt="SRD_TR_refined" /></td>
+	<td>Refined T Green<img src="./img/result/AID_railwaystation_22_TG_refine.jpg" alt="SRD_TG_refined" /></td>
+     <td>Refined T Blue<img src="./img/result/AID_railwaystation_22_TB_refine.jpg" alt="SRD_TB_refined" /></td>
 </tr>
 </table>
 
